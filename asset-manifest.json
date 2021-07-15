@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/randomuseravatar/static/css/main.9f515f96.chunk.css",
-    "main.js": "/randomuseravatar/static/js/main.7ed25bd5.chunk.js",
-    "main.js.map": "/randomuseravatar/static/js/main.7ed25bd5.chunk.js.map",
+    "main.js": "/randomuseravatar/static/js/main.2f78ba59.chunk.js",
+    "main.js.map": "/randomuseravatar/static/js/main.2f78ba59.chunk.js.map",
     "runtime-main.js": "/randomuseravatar/static/js/runtime-main.9799c383.js",
     "runtime-main.js.map": "/randomuseravatar/static/js/runtime-main.9799c383.js.map",
-    "static/js/2.2adf627c.chunk.js": "/randomuseravatar/static/js/2.2adf627c.chunk.js",
-    "static/js/2.2adf627c.chunk.js.map": "/randomuseravatar/static/js/2.2adf627c.chunk.js.map",
+    "static/js/2.f1098c48.chunk.js": "/randomuseravatar/static/js/2.f1098c48.chunk.js",
+    "static/js/2.f1098c48.chunk.js.map": "/randomuseravatar/static/js/2.f1098c48.chunk.js.map",
     "index.html": "/randomuseravatar/index.html",
     "static/css/main.9f515f96.chunk.css.map": "/randomuseravatar/static/css/main.9f515f96.chunk.css.map",
-    "static/js/2.2adf627c.chunk.js.LICENSE.txt": "/randomuseravatar/static/js/2.2adf627c.chunk.js.LICENSE.txt"
+    "static/js/2.f1098c48.chunk.js.LICENSE.txt": "/randomuseravatar/static/js/2.f1098c48.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9799c383.js",
-    "static/js/2.2adf627c.chunk.js",
+    "static/js/2.f1098c48.chunk.js",
     "static/css/main.9f515f96.chunk.css",
-    "static/js/main.7ed25bd5.chunk.js"
+    "static/js/main.2f78ba59.chunk.js"
   ]
 }
