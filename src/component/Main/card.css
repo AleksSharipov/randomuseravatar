@@ -1,0 +1,23 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+  margin: auto;
+  padding: 15px;
+  border: 1px solid rgba(0, 0, 0, 0.137);
+  border-radius: 10px;
+  max-width: 200px;
+  width: 100%;
+  box-shadow: 4px 3px 18px 0px rgba(0, 0, 0, 0.137);
+  box-sizing: border-box;
+}
+
+.card__name {
+  margin: 0;
+  font-size: 22px;
+}
+
+.card__img {
+  margin-top: 15px;
+}
