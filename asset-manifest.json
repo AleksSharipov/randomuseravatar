@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/randomuseravatar/static/css/main.9f515f96.chunk.css",
+    "main.js": "/randomuseravatar/static/js/main.5d1b15f8.chunk.js",
+    "main.js.map": "/randomuseravatar/static/js/main.5d1b15f8.chunk.js.map",
+    "runtime-main.js": "/randomuseravatar/static/js/runtime-main.9799c383.js",
+    "runtime-main.js.map": "/randomuseravatar/static/js/runtime-main.9799c383.js.map",
+    "static/js/2.2adf627c.chunk.js": "/randomuseravatar/static/js/2.2adf627c.chunk.js",
+    "static/js/2.2adf627c.chunk.js.map": "/randomuseravatar/static/js/2.2adf627c.chunk.js.map",
+    "index.html": "/randomuseravatar/index.html",
+    "static/css/main.9f515f96.chunk.css.map": "/randomuseravatar/static/css/main.9f515f96.chunk.css.map",
+    "static/js/2.2adf627c.chunk.js.LICENSE.txt": "/randomuseravatar/static/js/2.2adf627c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9799c383.js",
+    "static/js/2.2adf627c.chunk.js",
+    "static/css/main.9f515f96.chunk.css",
+    "static/js/main.5d1b15f8.chunk.js"
+  ]
+}
