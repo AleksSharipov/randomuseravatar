@@ -63,11 +63,11 @@ function App() {
           component={Main}
           currentUser={currentUser}
         />
-        <Route path='/sign-in'>
+        <Route path='/randomuseravatar'>
           <Login onLogin={onLogin}/>
         </Route>
         <Route>
-            {isLoggedIn ? <Redirect to="/main" /> : <Redirect to="/sign-in" />}
+            {isLoggedIn ? <Redirect to="/main" /> : <Redirect to="/randomuseravatar" />}
           </Route>
       </Switch>
     </div>
